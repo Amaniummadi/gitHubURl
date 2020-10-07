@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Amaniummadi/gitHubURl/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Amaniummadi/gitHubURl/static/js/main.8dc56262.chunk.js",
+    "main.js.map": "/Amaniummadi/gitHubURl/static/js/main.8dc56262.chunk.js.map",
+    "runtime-main.js": "/Amaniummadi/gitHubURl/static/js/runtime-main.c58e21b7.js",
+    "runtime-main.js.map": "/Amaniummadi/gitHubURl/static/js/runtime-main.c58e21b7.js.map",
+    "static/js/2.9203d5fe.chunk.js": "/Amaniummadi/gitHubURl/static/js/2.9203d5fe.chunk.js",
+    "static/js/2.9203d5fe.chunk.js.map": "/Amaniummadi/gitHubURl/static/js/2.9203d5fe.chunk.js.map",
+    "index.html": "/Amaniummadi/gitHubURl/index.html",
+    "precache-manifest.53db4fe0e6ed9fb7e65d4ebe0467c261.js": "/Amaniummadi/gitHubURl/precache-manifest.53db4fe0e6ed9fb7e65d4ebe0467c261.js",
+    "service-worker.js": "/Amaniummadi/gitHubURl/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Amaniummadi/gitHubURl/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9203d5fe.chunk.js.LICENSE.txt": "/Amaniummadi/gitHubURl/static/js/2.9203d5fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Amaniummadi/gitHubURl/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c58e21b7.js",
+    "static/js/2.9203d5fe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8dc56262.chunk.js"
+  ]
+}
